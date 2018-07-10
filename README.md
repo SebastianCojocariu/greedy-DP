@@ -1,7 +1,8 @@
 Sebastian Cojocariu 321CB UPB ACS						                        
                                     
                                     TEMA 1
-						                         -PA-
+				 (GREEDY + DP)
+				     -PA-
 
 1)frati.cpp(greedy)
 	Se observa imediat ca alegerea unui concurs de catre unul dintre 
