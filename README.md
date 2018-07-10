@@ -1,7 +1,7 @@
 Sebastian Cojocariu 321CB UPB ACS						                        
                                     
                                     TEMA 1
-				 (GREEDY + DP)
+			         (GREEDY + DP)
 				     -PA-
 
 1)frati.cpp(greedy)
