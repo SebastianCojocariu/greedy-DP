@@ -1,6 +1,6 @@
 Sebastian Cojocariu 321CB UPB ACS						                        
                                     
-			         	(GREEDY + DP)
+			         		(GREEDY + DP)
 				
 
 1)frati.cpp(greedy)
